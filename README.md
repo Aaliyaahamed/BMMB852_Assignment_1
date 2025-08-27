@@ -32,7 +32,6 @@ assignment1/testdata:
 rawdata
 
 assignment1/testdata/rawdata:
-
 ```
 ## 3. Creating files in directories
 **Input:**
@@ -45,7 +44,7 @@ touch assignment1/notes.txt
 ls -R assignment1
 ```
 
-**Ouput:**
+**Output:**
 ``` bash
 assignment1:
 notes.txt  testdata
